@@ -29,8 +29,10 @@ via Jupyter menu.
     Korea Stock Data Acquisiation, Regression, Stock Trend Prediction
 7. Time-Series analysis (Stock Trend) - Advanced 
     ARIMA prediction, (Stock) Technical Analysis Library, Linear Regression 
-...
-
+8. ( Machine Learning : no materials here)
+9. Machien Learning Example : Vehicle License Plate Recognition
+    show an example ML project 
+10.Wraup : summary on what we have discussed, and relevant websites for further study
 
 Any questions or comment, please route it to sumyoen@gmail.com
 
