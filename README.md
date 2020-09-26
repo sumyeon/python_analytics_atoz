@@ -1,23 +1,21 @@
-# python_anal_atoz
+# python_analytics_atoz
 
-Introductory Notebooks for Data Analytics on Python (+ Pandas).
-Though there are some korean description added, you can still
-use the notebooks if english is okay.
+Introductory Notebooks for Data Analytics using Python/Pandas/Other libraries.
+There are nine sessions after studying you can understand/use python-based data analytics.
+Please note that there are some korean - my mother tongue - descriptions included.
 
-
-Here are the notebooks whill be completed in 10 weeks,
-(one notebook per a week)
-
-To open the notebook, you need to install Jupyter environment before.
-The easiest and most suggested way of deploying Jupyter environment is using Anaconda.
+To open the notebook, you need to setup your own Jupyter environment.
+The easiest and suggested way is installing Anacona pacakge.
 Please refer the anaconda web page (https://docs.anaconda.com/anaconda/install/) and 
-install the package and start the jupyter environment. 
+install the package and start a jupyter environment - jupyter notebook or jupyter lab.
 
-After installation, you can download this Github data into your local machine.
-Just download this Github data as zip file, and deflate the file into your Jupyter home directory.
-If you could not find the Jupyter home directory, please just upload every deflated files 
-via Jupyter menu.
+After then, you can download (or clone) this Github into your local machine.
+If you know how to use Git, then please clone this project to your Jupyter ntoebook directory.
+Otherwise, download this project as a zip file, and deflate the file into your Jupyter notebook directory.
+(Note that you need to understand the meaning of Jupyter notebook directory.)
 
+Below are the topics for 10 sessions.
+(NOTE that 8th session on which no materias are included here)
 
 1. Jupyter basic + Python Basic
 2. Pandas Basic (+ tip: Folium)
@@ -34,7 +32,7 @@ via Jupyter menu.
     show an example ML project 
 10.Wraup : summary on what we have discussed, and relevant websites for further study
 
-Any questions or comment, please route it to sumyoen@gmail.com
+Any questions or comment, please send it to sumyoen@gmail.com
 
 
 
